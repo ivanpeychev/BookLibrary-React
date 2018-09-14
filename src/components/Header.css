@@ -1,0 +1,20 @@
+.compHeader {
+  background-color: lightgray;
+  border-radius: 5px;
+  padding-inline-start: 0;
+  margin-block-start: 0;
+}
+
+.compHeader ul li {
+  display: inline-block;
+  padding: 5px;
+}
+
+.compHeader a {
+  color: black;
+  text-decoration: none;
+}
+
+.compHeader a:hover {
+  color: darkgreen;
+}
