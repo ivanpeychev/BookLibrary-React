@@ -1,0 +1,26 @@
+.navigation-bar {
+  background-color: #007BFF;
+  border-radius: 5px;
+  margin: 5px;
+  padding: 5px;
+}
+
+.navigation-bar button, .navigation-bar span {
+  color: #B3DEFF;
+  text-decoration: none;
+  border-radius: 5px;
+  padding: 5px;
+  border: 0;
+  background-color: #007BFF;
+  font-size: 1.1em;
+}
+
+.navigation-bar span {
+  float: right;
+}
+
+.navigation-bar button:hover {
+  color: white;
+  text-decoration: none;
+  cursor: pointer;
+}
